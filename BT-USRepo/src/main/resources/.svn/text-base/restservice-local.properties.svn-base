@@ -1,0 +1,15 @@
+#BT Service Properties
+btservice.rest.url=http://localhost:8080/MerchandisingUI/
+btservice.username=a1010742
+btservice.password=Welcome1
+bt.af.publishing.interval=180000
+bt.cf.publishing.interval=900000
+
+#SaaS Service AF
+saasservice.af.rest.url=http://localhost:8080/search-api/search/
+
+#SaaS Service CF
+saasservice.cf.rest.url=http://localhost:9090/search-api/search/
+
+#Rest Service Timeout
+rest.service.time.out=3000

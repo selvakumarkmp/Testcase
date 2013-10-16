@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests
+END
+PromosTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/dotcom/!svn/ver/135275/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/PromosTest.java
+END
+SearchApiTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/SearchApiTest.java
+END
+SynonymsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/dotcom/!svn/ver/135986/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/SynonymsTest.java
+END
+BoostAndBlockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/BoostAndBlockTest.java
+END
+FacetsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/FacetsTest.java
+END
+KeywordRedirectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/KeywordRedirectTest.java
+END
+BannersTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/BannersTest.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/test/java/com/bestbuy/searchplatform/integrationtests/tests/BaseTest.java
+END

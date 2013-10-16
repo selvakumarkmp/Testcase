@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facets>
+
+ <facet>
+		<systemName>INT_TEST_brand_facet_AZ2</systemName>
+		<displayName>INT_TEST_brand_facet_AZ2</displayName>
+		<facetId></facetId>
+		<sortType>num_res_least</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>555</attributeId>
+		<attributeName>brand_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+	</facet>
+	
+ <facet>
+		<systemName>INT_TEST_category_facet_AZ2</systemName>
+		<displayName>INT_TEST_category_facet_AZ2</displayName>
+		<facetId></facetId>
+		<sortType>num_res_least</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>555444</attributeId>
+		<attributeName>category_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+	</facet>	
+ 	
+
+	 <facet>
+		<promoteList>
+			<attrValuedisplay>N</attrValuedisplay>
+			<attributeValue>Magnolia Home Theater</attributeValue>
+			<attributeValueId>2794</attributeValueId>
+			<sortOrder>1</sortOrder>
+		</promoteList>
+		<systemName>INT_TEST_coll_facet_PromoList</systemName>
+		<displayName>INT_TEST_coll_facet_PromoList</displayName>
+		<facetId />
+		<sortType>num_spec_AZ</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>27894</attributeId>
+		<attributeName>collection_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+</facet> 
+
+	<!-- <facet>
+		<promoteList>
+			<attrValuedisplay>N</attrValuedisplay>
+			<attributeValue>Magnolia Home Theater</attributeValue>
+			<attributeValueId>2794</attributeValueId>
+			<sortOrder>1</sortOrder>
+		</promoteList>
+		<promoteList>
+		    <attrValuedisplay>N</attrValuedisplay>
+			<attributeValue>Refurbished</attributeValue>
+			<attributeValueId>2798</attributeValueId>
+			<sortOrder>2</sortOrder>
+		</promoteList>
+ 		<systemName>INT_TEST_coll_facet_PromoListWSC</systemName>
+		<displayName>INT_TEST_coll_facet_PromoListWSC</displayName>
+		<facetId />
+		<sortType>num_spec_AZ</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>2789</attributeId>
+		<attributeName>collection_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>Y</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>abcat0100000</categoryId>
+			<categoryPath>cat00000</categoryPath>
+		</categoryWrapper>
+</facet> 
+ -->
+	<!-- <facet>
+		<promoteList>
+			<attrValuedisplay>N</attrValuedisplay>
+			<attributeValue>Lenses</attributeValue>
+			<attributeValueId>9644</attributeValueId>
+			<sortOrder>1</sortOrder>
+		</promoteList>
+		<systemName>INT_TEST_category_facet_PromoListSC</systemName>
+		<displayName>INT_TEST_category_facet_PromoListSC</displayName>
+		<facetId />
+		<sortType>non_spec_least</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>8835</attributeId>
+		<attributeName>category_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>Y</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+</facet> -->
+
+<!-- <facet>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Best Buy Exclusive</attributeValue>
+		<attributeValueId>2790</attributeValueId>
+		<sortOrder/>
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Best Buy Items</attributeValue>
+		<attributeValueId>2791</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Best Buy Premium Collection</attributeValue>
+		<attributeValueId>2792</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>In Store &amp; Online</attributeValue>
+		<attributeValueId>2793</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Magnolia Home Theater</attributeValue>
+		<attributeValueId>2794</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Marketplace Seller Item</attributeValue>
+		<attributeValueId>2795</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Premium Collection</attributeValue>
+		<attributeValueId>2796</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Pro Shop</attributeValue>
+		<attributeValueId>2797</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Refurbished</attributeValue>
+		<attributeValueId>2798</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Small Business</attributeValue>
+		<attributeValueId>2799</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Small Business|In-Store &amp; Online</attributeValue>
+		<attributeValueId>2800</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<systemName>INT_TEST_Collection_facet_ExAll</systemName>
+	<displayName>INT_TEST_Collection_facet_ExAll</displayName>
+	<facetId />
+	<sortType>num_res_least</sortType>
+	<minValue>2</minValue>
+	<maxValue>8</maxValue>
+	<facetDisplay>Y</facetDisplay>
+	<attributeId>2789</attributeId>
+	<attributeName>collection_facet</attributeName>
+	<startDate>04-03-2013 00:00</startDate>
+	<endDate>04-13-2013 00:00</endDate>
+	<displayMode>SEARCH_BROWSE</displayMode>
+	<glossaryItem></glossaryItem>
+	<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+	<displayMobileFacet>Y</displayMobileFacet>
+	<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+	<displayRecurrence>Y</displayRecurrence>
+	<categoryWrapper>
+		<applySubCategory>N</applySubCategory>
+		<displayDepFacet>N</displayDepFacet>
+		<displayContext>Y</displayContext>
+		<categoryId>cat00000</categoryId>
+		<categoryPath>BestBuy</categoryPath>
+	</categoryWrapper>
+	</facet>
+	
+ <facet>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Best Buy Exclusive</attributeValue>
+		<attributeValueId>2790</attributeValueId>
+		<sortOrder/>
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Best Buy Items</attributeValue>
+		<attributeValueId>2791</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Best Buy Premium Collection</attributeValue>
+		<attributeValueId>2792</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>In Store &amp; Online</attributeValue>
+		<attributeValueId>2793</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Magnolia Home Theater</attributeValue>
+		<attributeValueId>2794</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Marketplace Seller Item</attributeValue>
+		<attributeValueId>2795</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Premium Collection</attributeValue>
+		<attributeValueId>2796</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Pro Shop</attributeValue>
+		<attributeValueId>2797</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Refurbished</attributeValue>
+		<attributeValueId>2798</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Small Business</attributeValue>
+		<attributeValueId>2799</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<excludeList>
+		<attrValuedisplay>Y</attrValuedisplay>
+		<attributeValue>Small Business|In-Store &amp; Online</attributeValue>
+		<attributeValueId>2800</attributeValueId>
+		<sortOrder />
+	</excludeList>
+	<systemName>INT_TEST_Collection_facet_ExAllWSC</systemName>
+	<displayName>INT_TEST_Collection_facet_ExAllWSC</displayName>
+	<facetId />
+	<sortType>num_res_least</sortType>
+	<minValue>2</minValue>
+	<maxValue>8</maxValue>
+	<facetDisplay>Y</facetDisplay>
+	<attributeId>2789</attributeId>
+	<attributeName>collection_facet</attributeName>
+	<startDate>04-03-2013 00:00</startDate>
+	<endDate>04-13-2013 00:00</endDate>
+	<displayMode>SEARCH_BROWSE</displayMode>
+	<glossaryItem></glossaryItem>
+	<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+	<displayMobileFacet>Y</displayMobileFacet>
+	<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+	<displayRecurrence>Y</displayRecurrence>
+	<categoryWrapper>
+		<applySubCategory>Y</applySubCategory>
+		<displayDepFacet>N</displayDepFacet>
+		<displayContext>Y</displayContext>
+		<categoryId>abcat0100000</categoryId>
+		<categoryPath>cat00000</categoryPath>
+	</categoryWrapper>
+	</facet>
+  -->
+    	
+</facets> 

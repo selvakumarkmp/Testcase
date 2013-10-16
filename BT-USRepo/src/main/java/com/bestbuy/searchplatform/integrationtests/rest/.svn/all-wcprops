@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dotcom/!svn/ver/135275/search-qa/trunk/integration-RESTAPI-tests/src/main/java/com/bestbuy/searchplatform/integrationtests/rest
+END
+StatefullHttpComponentsClientHttpRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/dotcom/!svn/ver/131731/search-qa/trunk/integration-RESTAPI-tests/src/main/java/com/bestbuy/searchplatform/integrationtests/rest/StatefullHttpComponentsClientHttpRequestFactory.java
+END
+RestClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/dotcom/!svn/ver/135275/search-qa/trunk/integration-RESTAPI-tests/src/main/java/com/bestbuy/searchplatform/integrationtests/rest/RestClient.java
+END
+StatefullRestTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/dotcom/!svn/ver/131731/search-qa/trunk/integration-RESTAPI-tests/src/main/java/com/bestbuy/searchplatform/integrationtests/rest/StatefullRestTemplate.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources
+END
+restservice-local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/restservice-local.properties
+END
+restservice-dev1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dotcom/!svn/ver/134007/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/restservice-dev1.properties
+END
+restservice-dev2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dotcom/!svn/ver/134051/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/restservice-dev2.properties
+END
+env-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/dotcom/!svn/ver/131731/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/env-config.xml
+END

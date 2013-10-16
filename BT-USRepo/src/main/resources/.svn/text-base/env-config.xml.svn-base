@@ -1,0 +1,90 @@
+<environments>
+	<environment default="false" desc="DEV 1 environment" name="dev1">
+		<WebService name="BTService">
+			<port>28041</port>
+			<password>Welcome1</password>
+			<context>MerchandisingUI</context>
+			<host>search-businesstool-dev1.bestbuy.com</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username>a1010742</username>
+		</WebService>
+		<WebService name="ExternalWS">
+			<port>28001</port>
+			<password />
+			<context>search-api</context>
+			<suggest.query.uri>/search-api/suggest/?term=</suggest.query.uri>
+			<search.site.uri>/search-api/search/</search.site.uri>
+			<host>search-af-dev1.bestbuy.com</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username />
+		</WebService>
+	</environment>
+	<environment default="true" desc="QA 1 environment" name="qa1">
+		<WebService name="BTService">
+			<port>8080</port>
+			<password>password</password>
+			<context>bestbuy</context>
+			<host>localhost</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username>a1010742</username>
+		</WebService>
+		<WebService name="ExternalWS">
+			<port>8080</port>
+			<password />
+			<context>search-api</context>
+			<suggest.query.uri>/search-api/suggest/?term=</suggest.query.uri>
+			<search.site.uri>/search-api/search/</search.site.uri>
+			<host>localhost</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username />
+		</WebService>
+	</environment>
+	<environment default="false" desc="QA 2 environment" name="qa2">
+		<WebService name="BTService">
+			<port>8080</port>
+			<password />
+			<context>MerchandisingUI/</context>
+			<host>localhost</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username />
+		</WebService>
+		<WebService name="ExternalWS">
+			<port>8080</port>
+			<password />
+			<context>search-api</context>
+			<suggest.query.uri>/search-api/suggest/?term=</suggest.query.uri>
+			<search.site.uri>/search-api/search/</search.site.uri>
+			<host>localhost</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username />
+		</WebService>
+	</environment>
+	<environment default="false" desc="QA 3 environment" name="qa3">
+		<WebService name="BTService">
+			<port>8080</port>
+			<password />
+			<context>MerchandisingUI/</context>
+			<host>localhost</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username />
+		</WebService>
+		<WebService name="ExternalWS">
+			<port>8080</port>
+			<password />
+			<context>search-api</context>
+			<suggest.query.uri>/search-api/suggest/?term=</suggest.query.uri>
+			<search.site.uri>/search-api/search/</search.site.uri>
+			<host>localhost</host>
+			<protocol>http</protocol>
+			<timeout>30000</timeout>
+			<username />
+		</WebService>
+	</environment>
+</environments>

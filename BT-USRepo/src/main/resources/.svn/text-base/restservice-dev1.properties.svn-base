@@ -1,0 +1,16 @@
+#BT Service Properties
+btservice.rest.url=http://search-businesstool-dev1.bestbuy.com:28041/MerchandisingUI/
+btservice.username=a1010742
+btservice.password=Welcome1
+bt.af.publishing.interval=180000
+bt.cf.publishing.interval=900000
+
+#SaaS Service AF
+saasservice.af.rest.url=http://search-af-dev1.bestbuy.com:28001/search-api/search/
+
+#SaaS Service CF
+saasservice.cf.rest.url=http://search-solr-dev1.bestbuy.com:18001/search-api/search/
+
+#Rest Service Timeout
+rest.service.time.out=3000
+

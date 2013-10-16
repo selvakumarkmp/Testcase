@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<facets>
+
+	<facet>
+		<systemName>INT_TEST_brand_facet_AZ2</systemName>
+		<displayName>INT_TEST_brand_facet_AZ2</displayName>
+		<facetId></facetId>
+		<sortType>num_res_least</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>34</attributeId>
+		<attributeName>brand_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+	</facet>
+
+	<!-- <facet>
+		<systemName>INT_TEST_category_facet_AZ2</systemName>
+		<displayName>INT_TEST_category_facet_AZ2</displayName>
+		<facetId></facetId>
+		<sortType>num_res_least</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>8835</attributeId>
+		<attributeName>category_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>abcat0200000</categoryId>
+			<categoryPath>cat00000|abcat0200000</categoryPath>
+		</categoryWrapper>
+	</facet>
+
+	<facet>
+		<promoteList>
+			<attributeValueId>2791</attributeValueId>
+			<attributeValue>Best Buy Items</attributeValue>
+			<sortOrder>2</sortOrder>
+			<attrValuedisplay>N</attrValuedisplay>
+		</promoteList>
+		<promoteList>
+			<attributeValueId>2792</attributeValueId>
+			<attributeValue>Best Buy Premium Collection</attributeValue>
+			<sortOrder>3</sortOrder>
+			<attrValuedisplay>N</attrValuedisplay>
+		</promoteList>
+		<promoteList>
+			<attributeValueId>2798</attributeValueId>
+			<attributeValue>Refurbished</attributeValue>
+			<sortOrder>1</sortOrder>
+			<attrValuedisplay>N</attrValuedisplay>
+		</promoteList>
+		<systemName>INT_TEST_collection_facet_AZ2</systemName>
+		<displayName>INT_TEST_collection_facet_AZ2</displayName>
+		<facetId />
+		<sortType>num_spec_AZ</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>2789</attributeId>
+		<attributeName>collection_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+	</facet>
+
+	<facet>
+		<excludeList>
+			<attributeValueId>3857</attributeValueId>
+			<attributeValue>17.78</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<excludeList>
+			<attributeValueId>3858</attributeValueId>
+			<attributeValue>17.79</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<excludeList>
+			<attributeValueId>3859</attributeValueId>
+			<attributeValue>17.8</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<systemName>INT_TEST_currentprice_facet_AZ2</systemName>
+		<displayName>INT_TEST_currentprice_facet_AZ2</displayName>
+		<facetId />
+		<sortType>num_res_least</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>2804</attributeId>
+		<attributeName>currentprice_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem></glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>Y</displayContext>
+			<categoryId>cat00000</categoryId>
+			<categoryPath>BestBuy</categoryPath>
+		</categoryWrapper>
+	</facet>
+
+	<facet>
+		<excludeList>
+			<attributeValueId>28</attributeValueId>
+			<attributeValue>Clearance &amp; More</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<excludeList>
+			<attributeValueId>30</attributeValueId>
+			<attributeValue>Free Shipping</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<excludeList>
+			<attributeValueId>31</attributeValueId>
+			<attributeValue>On Sale</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<excludeList>
+			<attributeValueId>32</attributeValueId>
+			<attributeValue>Package Deals</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<excludeList>
+			<attributeValueId>33</attributeValueId>
+			<attributeValue>Special Offers</attributeValue>
+			<attrValuedisplay>Y</attrValuedisplay>
+			<sortOrder />
+		</excludeList>
+		<systemName>INT_TEST_currentoffers_facet_AZ</systemName>
+		<displayName>INT_TEST_currentoffers_facet_AZ</displayName>
+		<facetId />
+		<sortType>AZ</sortType>
+		<minValue>2</minValue>
+		<maxValue>8</maxValue>
+		<facetDisplay>Y</facetDisplay>
+		<attributeId>27</attributeId>
+		<attributeName>currentoffers_facet</attributeName>
+		<startDate>04-03-2013 00:00</startDate>
+		<endDate>04-13-2013 00:00</endDate>
+		<displayMode>SEARCH_BROWSE</displayMode>
+		<glossaryItem>3936</glossaryItem>
+		<displayFacetRemoveLink>Y</displayFacetRemoveLink>
+		<displayMobileFacet>Y</displayMobileFacet>
+		<displayMobileFacetRemoveLink>Y</displayMobileFacetRemoveLink>
+		<displayRecurrence>Y</displayRecurrence>
+		<categoryWrapper>
+			<applySubCategory>N</applySubCategory>
+			<displayDepFacet>N</displayDepFacet>
+			<displayContext>N</displayContext>
+			<categoryId>abcat0301000</categoryId>
+			<categoryPath>cat00000|abcat0300000</categoryPath>
+		</categoryWrapper>
+	</facet> -->
+</facets>

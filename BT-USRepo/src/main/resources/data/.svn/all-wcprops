@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data
+END
+PositivePromoTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dotcom/!svn/ver/131731/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data/PositivePromoTests.xml
+END
+PositiveSynonymTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data/PositiveSynonymTests.xml
+END
+PositiveRedirectTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data/PositiveRedirectTests.xml
+END
+positiveFacetTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data/positiveFacetTests.xml
+END
+PositiveBoostBlocksTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data/PositiveBoostBlocksTests.xml
+END
+PositiveBannerTests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dotcom/!svn/ver/137010/search-qa/trunk/integration-RESTAPI-tests/src/main/resources/data/PositiveBannerTests.xml
+END
