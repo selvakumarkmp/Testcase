@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><facets>
+    
+    <facet>	
+		<facets_SysName_Data>TV_Sprint21</facets_SysName_Data>
+		<facets_DispName_Data>A</facets_DispName_Data>
+		<facet_Position>2</facet_Position>
+		<Start_Date_Month>Dec</Start_Date_Month>	
+		<Start_Date_Day>31</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>23</Start_Date_Hour>
+	    <Start_Date_Minute>59</Start_Date_Minute>
+	    <End_Date_Month>Dec</End_Date_Month>	
+		<End_Date_Day>31</End_Date_Day>	
+		<End_Date_Year>2014</End_Date_Year>
+	    <End_Date_Hour>23</End_Date_Hour>
+	    <End_Date_Minute>59</End_Date_Minute> 
+	    <facets_Mode>Search</facets_Mode>
+	    <facets_Glossary>2454</facets_Glossary>
+	    <facets_Display_MinValue>2</facets_Display_MinValue>
+	    <facets_Display_MaxValue>8</facets_Display_MaxValue>
+    </facet>
+    
+  
+		
+</facets>

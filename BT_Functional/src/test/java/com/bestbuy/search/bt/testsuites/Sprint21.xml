@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Sprint21" verbose="1">
+
+
+   <test name="Sprint21_KeywordRedirect_Test" junit="false"	preserve-order="true">
+		<parameter name="Sprint21KeywordCreateDataXml" value="/sprint21/keywordredirects/create/keywordData.xml" />
+		<parameter name="Sprint21KeywordUpdateDataXml" value="/sprint21/keywordredirects/update/keywordData.xml" />
+		<classes>
+			<class name="com.bestbuy.search.bt.testcases.KeywordRedirectTest" />
+			<methods>
+				<include name="testValidLogin"></include>
+				<include name="testSprint21_AddKeywordRedirect"></include>				
+				<include name="testSprint21_ApprovekeywordRedirect"></include>
+				<include name="testSprint21_DeletekeywordRedirect"></include>
+			</methods>
+		</classes>
+	</test>   
+
+
+	 <test name="Sprint21_Banners_Test" junit="false" preserve-order="true">
+		<parameter name="Sprint21BannersCreateDataXml" value="/sprint21/banners/create/bannersdata.xml" />
+		<parameter name="Sprint21BannersUpdateDataXml" value="/sprint21/banners/update/bannersdata.xml" />
+		<classes>
+			<class name="com.bestbuy.search.bt.testcases.BannersTest" />
+			<methods>
+				<include name="testValidLogin"></include>
+				<include name="testSprint21_AddBanners"></include>
+				<include name="testSprint21_ApproveBanners"></include>
+				<include name="testSprint21_DeleteBanners"></include>
+			</methods>
+		</classes>
+	</test>
+
+
+	<test name="Sprint21_Facets_Test" junit="false"	preserve-order="true">		
+		<parameter name="Sprint21facetCreateDataXml" value="/sprint21/facets/create/facetsdata.xml" />
+		<parameter name="Sprint21facetUpdateDataXml" value="/sprint21/facets/update/facetsdata.xml" />				
+		<classes>
+			<class name="com.bestbuy.search.bt.testcases.FacetsTest" />
+			<methods>
+				<include name="testValidLogin"></include>
+				<include name="testSprint21_AddFacets"></include>
+				<include name="testSprint21_ApproveFacets"></include>
+				<include name="testSprint21_DeleteFacets"></include>
+			</methods>
+		</classes>
+	</test> 
+	
+</suite> 
+   

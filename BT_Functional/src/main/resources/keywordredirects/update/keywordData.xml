@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><keywordredirects>
+
+    <keywordredirect>
+    
+		<rd_redirectTerm_value>Canon Printers</rd_redirectTerm_value>
+		<rd_RedirectUrl_value>canon.com/products/industry</rd_RedirectUrl_value>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>15</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>15</Start_Date_Hour>
+	    <Start_Date_Minute>51</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>25</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>15</End_Date_Hour>
+	    <End_Date_Minute>51</End_Date_Minute> 
+
+	</keywordredirect>
+	
+	 <keywordredirect>
+    
+		<rd_redirectTerm_value>Canon Digital Camera</rd_redirectTerm_value>
+	    <rd_RedirectUrl_value>canon.com/camera/industry</rd_RedirectUrl_value>		
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>15</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>15</Start_Date_Hour>
+	    <Start_Date_Minute>51</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>25</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>15</End_Date_Hour>
+	    <End_Date_Minute>51</End_Date_Minute> 
+
+	</keywordredirect>
+	
+	<keywordredirect>
+	
+		<rd_redirectTerm_value>Dell Inspiron</rd_redirectTerm_value>
+	    <rd_RedirectUrl_value>dell.com/products/industry</rd_RedirectUrl_value>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>15</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>15</Start_Date_Hour>
+	    <Start_Date_Minute>51</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>25</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>15</End_Date_Hour>
+	    <End_Date_Minute>51</End_Date_Minute> 
+	
+	</keywordredirect>
+
+    <!-- <keywordredirect>
+	
+		<rd_redirectTerm_value>Sony Xperia</rd_redirectTerm_value>
+		<rd_RedirectUrl_value>sony.com/products/industry</rd_RedirectUrl_value>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>10</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>10</Start_Date_Hour>
+	    <Start_Date_Minute>43</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>20</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>10</End_Date_Hour>
+	    <End_Date_Minute>43</End_Date_Minute> 
+	
+	</keywordredirect>
+	
+	 <keywordredirect>
+	
+		<rd_redirectTerm_value>Sony Dvd Player</rd_redirectTerm_value>
+		<rd_RedirectUrl_value>sony.com/products/industry</rd_RedirectUrl_value>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>10</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>10</Start_Date_Hour>
+	    <Start_Date_Minute>43</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>20</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>10</End_Date_Hour>
+	    <End_Date_Minute>43</End_Date_Minute> 
+	
+	</keywordredirect> -->
+	
+</keywordredirects>

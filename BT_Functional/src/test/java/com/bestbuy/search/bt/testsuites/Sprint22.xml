@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MerchandisingUI_BT" verbose="1">
+
+
+	<test name="MerchandisingUI_BT_Synonym_Test" junit="false"
+		preserve-order="true">
+		<parameter name="synonymdataXml" value="/synonyms/create/SynonymsData.xml" />
+		<parameter name="synonymUpdatedataXml" value="/synonyms/update/SynonymsData.xml" />
+		<classes>
+			<class name="com.bestbuy.search.bt.testcases.SynonymsTest" />
+			<methods>
+
+				<include name="testValidLogin"></include>
+				<include name="testAddSynonym"></include>						
+				<include name="testdeleteSynonymsPage"></include>
+
+			</methods>
+		</classes>
+	</test>
+
+	<!-- <test name="Sprint22" junit="false"
+		preserve-order="true">
+		<parameter name="facetdataXml" value="/sprint22/facets/create/facetsdata.xml" />
+		<parameter name="facetUpdateDataXml" value="/sprint22/facets/create/facetsdata.xml" />
+		<parameter name="facetdataXml1" value="/sprint22/facets/create/facetsdata1.xml" />
+		<parameter name="facetdataXml2" value="/sprint22/facets/create/facetsdata2.xml" />
+		<parameter name="facetdataXml3" value="/sprint22/facets/create/facetsdata3.xml" />
+		<classes>
+			<class name="com.bestbuy.search.bt.testcases.FacetsTest" />
+			<methods>
+
+				<include name="testValidLogin"></include>
+				<include name="testAddFacets"></include>
+				<include name="testDeleteFacets"></include>
+
+				<include name="testAddFacets1"></include>
+				<include name="testDeleteFacets1"></include>
+
+				<include name="testAddFacets2"></include>
+				<include name="testDeleteFacets2"></include>
+
+				<include name="testAddFacets3"></include>
+				<include name="testDeleteFacets3"></include>
+
+
+			</methods>
+		</classes>
+	</test> -->
+</suite> 
+   

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><facets>
+    
+    <facet>	
+		<facets_SysName_Data>1</facets_SysName_Data>
+		<facets_DispName_Data>Resolution</facets_DispName_Data>
+		<facet_Position>2</facet_Position>
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>13</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>18</Start_Date_Hour>
+	    <Start_Date_Minute>55</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>23</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>18</End_Date_Hour>
+	    <End_Date_Minute>55</End_Date_Minute> 
+	    <facets_Mode>Search</facets_Mode>
+	    <facets_Glossary>2454</facets_Glossary>
+	    <facets_Display_MinValue>2</facets_Display_MinValue>
+	    <facets_Display_MaxValue>8</facets_Display_MaxValue>
+    </facet>
+    
+  <!--   <facet>	
+		<facets_SysName_Data>2</facets_SysName_Data>
+		<facets_DispName_Data>Type</facets_DispName_Data>
+		<facet_Position>3</facet_Position>
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>13</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>18</Start_Date_Hour>
+	    <Start_Date_Minute>55</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>23</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>18</End_Date_Hour>
+	    <End_Date_Minute>55</End_Date_Minute> 
+	    <facets_Mode>Search</facets_Mode>
+	    <facets_Glossary>454</facets_Glossary>
+	    <facets_Display_MinValue>2</facets_Display_MinValue>
+	    <facets_Display_MaxValue>8</facets_Display_MaxValue>
+    </facet>
+    <facet>	
+		<facets_SysName_Data>3</facets_SysName_Data>
+		<facets_DispName_Data>Seller</facets_DispName_Data>
+		<facet_Position>2</facet_Position>
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>13</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>18</Start_Date_Hour>
+	    <Start_Date_Minute>35</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>23</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>18</End_Date_Hour>
+	    <End_Date_Minute>35</End_Date_Minute> 
+	    <facets_Mode>Search</facets_Mode>
+	    <facets_Glossary>44754</facets_Glossary>
+	    <facets_Display_MinValue>2</facets_Display_MinValue>
+	    <facets_Display_MaxValue>8</facets_Display_MaxValue>
+    </facet>
+<facet>	
+		<facets_SysName_Data>4</facets_SysName_Data>
+		<facets_DispName_Data>Brand</facets_DispName_Data>
+		<facet_Position>2</facet_Position>
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>13</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>18</Start_Date_Hour>
+	    <Start_Date_Minute>35</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>23</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>18</End_Date_Hour>
+	    <End_Date_Minute>35</End_Date_Minute> 
+	    <facets_Mode>Search</facets_Mode>
+	    <facets_Glossary>5454</facets_Glossary>
+	    <facets_Display_MinValue>2</facets_Display_MinValue>
+	    <facets_Display_MaxValue>8</facets_Display_MaxValue>
+    </facet>
+<facet>	
+		<facets_SysName_Data>5</facets_SysName_Data>
+		<facets_DispName_Data>Customer Reviews</facets_DispName_Data>
+		<facet_Position>2</facet_Position>
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>13</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>18</Start_Date_Hour>
+	    <Start_Date_Minute>35</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>23</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>18</End_Date_Hour>
+	    <End_Date_Minute>35</End_Date_Minute> 
+	    <facets_Mode>Search</facets_Mode>
+	    <facets_Glossary>11454</facets_Glossary>
+	    <facets_Display_MinValue>2</facets_Display_MinValue>
+	    <facets_Display_MaxValue>8</facets_Display_MaxValue>
+    </facet>  -->
+		
+</facets>

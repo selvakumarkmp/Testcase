@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><banners>
+
+    <banner>
+		<banners_Banner_Name>PresidentdaySavingOffers_Sprint21</banners_Banner_Name>	
+		<banners_Priority>1</banners_Priority>
+		<banners_Context_Searchprofile>Global</banners_Context_Searchprofile>
+		<banners_Context_KeyWord>Mobile</banners_Context_KeyWord>	
+		<Start_Date_Month>Dec</Start_Date_Month>	
+		<Start_Date_Day>31</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>23</Start_Date_Hour>
+	    <Start_Date_Minute>59</Start_Date_Minute>
+	    <End_Date_Month>Dec</End_Date_Month>	
+		<End_Date_Day>31</End_Date_Day>	
+		<End_Date_Year>2014</End_Date_Year>
+	    <End_Date_Hour>23</End_Date_Hour>
+	    <End_Date_Minute>59</End_Date_Minute> 
+	    <banners_Template>HTML_ONLY</banners_Template>
+	    <banners_Temp_Header1>TestData</banners_Temp_Header1>
+	    <banners_Temp_Header2>TestData</banners_Temp_Header2>
+	    <banners_Temp_Header3>TestData</banners_Temp_Header3>
+	    <banners_Temp_AddTerm1>TestData</banners_Temp_AddTerm1>
+	    <banners_Temp_AddTerm2>TestData</banners_Temp_AddTerm2>
+	    <banners_Temp_AddTerm3>TestData</banners_Temp_AddTerm3>
+	    <banners_Theme_AssetID>54189</banners_Theme_AssetID>
+    </banner>
+    
+</banners>

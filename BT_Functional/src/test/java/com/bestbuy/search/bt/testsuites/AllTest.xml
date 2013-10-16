@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTest">
+	<suite-files>
+	
+		<!-- <suite-file path="/MerchandisingUISuite.xml" /> -->
+	    <!-- 	<suite-file path="/Sprint21.xml" /> -->
+		<suite-file path="/Sprint22.xml" />
+		
+	</suite-files>
+
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<synonyms>
+   
+  
+   <synonym>
+	<primaryTermData>Canon</primaryTermData>
+	<termsData>DigitalCamera</termsData>
+  </synonym>
+  
+   <synonym>
+	<primaryTermData>Tv</primaryTermData>
+	<termsData>Sony</termsData>
+  </synonym>
+  
+   <synonym>
+	<primaryTermData>Dell</primaryTermData>
+	<termsData>Aero</termsData>
+  </synonym>
+  
+</synonyms>

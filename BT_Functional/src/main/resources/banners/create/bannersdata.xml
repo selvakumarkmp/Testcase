@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><banners>
+
+    <banner>
+		<banners_Banner_Name>Presidentday Saving</banners_Banner_Name>	
+		<banners_Priority>1</banners_Priority>
+		<banners_Context_Searchprofile>Global</banners_Context_Searchprofile>
+		<banners_Context_KeyWord>Mobile</banners_Context_KeyWord>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>15</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>14</Start_Date_Hour>
+	    <Start_Date_Minute>59</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>25</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>14</End_Date_Hour>
+	    <End_Date_Minute>59</End_Date_Minute> 
+	    <banners_Template>HTML_ONLY</banners_Template>
+	    <banners_Temp_Header1>TestData</banners_Temp_Header1>
+	    <banners_Temp_Header2>TestData</banners_Temp_Header2>
+	    <banners_Temp_Header3>TestData</banners_Temp_Header3>
+	    <banners_Temp_AddTerm1>TestData</banners_Temp_AddTerm1>
+	    <banners_Temp_AddTerm2>TestData</banners_Temp_AddTerm2>
+	    <banners_Temp_AddTerm3>TestData</banners_Temp_AddTerm3>
+	    <banners_Theme_AssetID>54189</banners_Theme_AssetID>
+    </banner>
+    
+  <!--   <banner>
+		<banners_Banner_Name>Current Offers</banners_Banner_Name>	
+		<banners_Priority>2</banners_Priority>
+		<banners_Context_Searchprofile>Global</banners_Context_Searchprofile>
+		<banners_Context_KeyWord>Tv</banners_Context_KeyWord>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>20</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>19</Start_Date_Hour>
+	    <Start_Date_Minute>47</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>25</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>19</End_Date_Hour>
+	    <End_Date_Minute>47</End_Date_Minute> 
+	    <banners_Template>HTML_ONLY</banners_Template>
+	    <banners_Temp_Header1>TestData</banners_Temp_Header1>
+	    <banners_Temp_Header2>TestData</banners_Temp_Header2>
+	    <banners_Temp_Header3>TestData</banners_Temp_Header3>
+	    <banners_Temp_AddTerm1>TestData</banners_Temp_AddTerm1>
+	    <banners_Temp_AddTerm2>TestData</banners_Temp_AddTerm2>
+	    <banners_Temp_AddTerm3>TestData</banners_Temp_AddTerm3>
+	    <banners_Theme_AssetID>8965</banners_Theme_AssetID>
+    </banner>
+    
+    <banner>
+		<banners_Banner_Name>Weekly Deals</banners_Banner_Name>	
+		<banners_Priority>3</banners_Priority>
+		<banners_Context_Searchprofile>Global</banners_Context_Searchprofile>
+		<banners_Context_KeyWord>Camera</banners_Context_KeyWord>	
+		<Start_Date_Month>May</Start_Date_Month>	
+		<Start_Date_Day>20</Start_Date_Day>	
+		<Start_Date_Year>2013</Start_Date_Year>
+	    <Start_Date_Hour>19</Start_Date_Hour>
+	    <Start_Date_Minute>47</Start_Date_Minute>
+	    <End_Date_Month>May</End_Date_Month>	
+		<End_Date_Day>25</End_Date_Day>	
+		<End_Date_Year>2013</End_Date_Year>
+	    <End_Date_Hour>19</End_Date_Hour>
+	    <End_Date_Minute>47</End_Date_Minute> 
+	    <banners_Template>HTML_ONLY</banners_Template>
+	    <banners_Temp_Header1>SampleData</banners_Temp_Header1>
+	    <banners_Temp_Header2>SampleData</banners_Temp_Header2>
+	    <banners_Temp_Header3>SampleData</banners_Temp_Header3>
+	    <banners_Temp_AddTerm1>SampleData</banners_Temp_AddTerm1>
+	    <banners_Temp_AddTerm2>SampleData</banners_Temp_AddTerm2>
+	    <banners_Temp_AddTerm3>SampleData</banners_Temp_AddTerm3>
+	    <banners_Theme_AssetID>1111</banners_Theme_AssetID>
+    </banner> -->
+    
+</banners>
